@@ -1,33 +1,42 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=Geist&weight=700&size=42&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=900&lines=Esukapalli+Nani;Building+AI+Products.;Building+Software+that+Thinks.;AI+Engineer+%7C+Creative+Builder." />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=330&color=0:000000,40:0d1117,100:161b22&text=NANI.OS&fontColor=FFFFFF&fontSize=78&animation=fadeIn&fontAlignY=34&desc=AI%20Engineer%20•%20Building%20Software%20That%20Thinks&descAlignY=55"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050505,40:0D1117,100:161B22&text=NANI.OS&fontColor=FFFFFF&fontSize=70&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20Creative%20Builder&descAlignY=58"/>
+# ████████████████████████████████████████████████
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Booting+NANI.OS...;Loading+AI+Core...;Initializing+Neural+Engine...;Connecting+Repositories...;Welcome+Developer."/>
 
 </div>
 
 ---
 
 ```text
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│                  NANI.OS  —  STATUS : ONLINE                 │
-│                                                              │
-│  Mission    → Build AI products that solve real problems     │
-│  Stack      → AI • Full Stack • Embedded • Cloud             │
-│  Focus      → Shipping instead of talking                    │
-│  Location   → India 🇮🇳                                      │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║                        N A N I . O S   v3.2                           ║
+║                                                                      ║
+║   STATUS      ● ONLINE                                                ║
+║                                                                      ║
+║   ROLE        AI Engineer                                             ║
+║                                                                      ║
+║   MISSION     Build software that thinks.                             ║
+║                                                                      ║
+║   LOCATION    India 🇮🇳                                               ║
+║                                                                      ║
+║   FOCUS       AI • Full Stack • Automation • Embedded                ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-# Building Software That Thinks.
+# Building Products, Not Just Projects.
 
-I don't just write code.
+I believe software should eliminate repetitive work—not create more of it.
 
-I build **AI products**, **automation systems**, **developer tools**, and **production-ready software** that reduce manual work.
+Everything I build is driven by one question:
+
+> **"Can AI do this better?"**
 
 Every repository is an experiment.
 
@@ -37,96 +46,58 @@ Every experiment becomes a product.
 
 <div align="center">
 
-### Currently Building
+## LIVE SYSTEM STATUS
 
-🟢 Mira AI
-
-🟢 AI Workspace
-
-🟢 Global North Platform
-
-🟢 Why Not We
-
-🟢 Agentic Applications
+| SYSTEM | STATUS |
+|:------:|:------:|
+| 🤖 AI Core | 🟢 Online |
+| ⚙ Backend | 🟢 Stable |
+| 🎨 Frontend | 🟢 Active |
+| ☁ Cloud | 🟢 Connected |
+| 🚀 Building | Mira AI |
+| 🧠 Current Goal | AI Workspace |
 
 </div>
 
 ---
 
-# Philosophy
+<div align="center">
 
-> Software should think.
->
-> Humans should create.
+## AI ECOSYSTEM
 
----
+```text
+                         NANI.OS
 
-# Tech Universe
+                             │
 
-<table>
+        ┌────────────────────┼────────────────────┐
 
-<tr>
+        │                    │                    │
 
-<td>
+     Mira AI         Global North        Why Not We
 
-### 🤖 AI
+        │                    │                    │
 
-- Gemini
-- OpenAI
-- Claude
-- Ollama
-- LangChain
-- RAG
-- Prompt Engineering
+        └──────────────┬─────┴─────────────┘
 
-</td>
+                       │
 
-<td>
+                 AI Workspace
 
-### ⚙ Backend
+                       │
 
-- Node.js
-- Express
-- PostgreSQL
-- Supabase
-- REST APIs
-- Authentication
-- Prisma
+              Voice Agents
 
-</td>
+                       │
 
-</tr>
+              Local AI Models
 
-<tr>
+                       │
 
-<td>
+                Future Startup
+```
 
-### 💻 Frontend
-
-- React
-- Next.js
-- TypeScript
-- TailwindCSS
-- Framer Motion
-- GSAP
-
-</td>
-
-<td>
-
-### ☁ Cloud
-
-- Vercel
-- Docker
-- GitHub Actions
-- Cloudflare
-- Firebase
-
-</td>
-
-</tr>
-
-</table>
+</div>
 
 ---
 
@@ -134,98 +105,94 @@ Every experiment becomes a product.
 
 ```yaml
 Mission:
-  Build:
-    - AI Products
-    - SaaS
-    - Agentic Systems
-    - Automation
 
-Learning:
+ Build:
+    - AI Products
+    - Agentic Applications
+    - Full Stack SaaS
+    - Automation Systems
+
+ Learning:
     - Rust
     - Go
     - Computer Vision
+    - Distributed Systems
 
-Dream:
-    Build software where AI replaces repetitive work.
+ Dream:
+    Build software where AI removes repetitive work.
 ```
 
 ---
 
 <div align="center">
 
-## Open Source Philosophy
+# TECH UNIVERSE
 
-```
-
-Create.
-
-Ship.
-
-Learn.
-
-Repeat.
-
-```
+| 🤖 AI | ⚙ Backend | 💻 Frontend | ☁ Cloud |
+|-------|-----------|-------------|---------|
+| Gemini | Node.js | React | Vercel |
+| OpenAI | Express | Next.js | Supabase |
+| Claude | PostgreSQL | Tailwind | Docker |
+| Ollama | Prisma | GSAP | Cloudflare |
 
 </div>
-
----
-
-# Featured Products
-
-| Project | Description |
-|----------|-------------|
-| 🚀 Mira AI | AI-powered attendance and education platform |
-| 🌍 Global North | Overseas consultancy platform |
-| 🤖 AI Workspace | Personal AI operating workspace |
-| 🧠 Why Not We | Building ambitious products with AI |
-| ⚡ Experiments | AI, Embedded Systems & Full Stack ideas |
 
 ---
 
 <div align="center">
 
-## GitHub Analytics
+## GITHUB DASHBOARD
 
-</div>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=nani301&show_icons=true&hide_border=true&theme=github_dark"/>
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nani301&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=nani301&theme=github-dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
+<img height="180" src="https://streak-stats.demolab.com?user=nani301&theme=github-dark&hide_border=true"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nani301&layout=compact&theme=github_dark&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# Activity Graph
+<div align="center">
 
-<p align="center">
+## CONTRIBUTION GRAPH
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nani301&theme=github-dark&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# Roadmap
+<div align="center">
 
-- ✅ AI Attendance
-- ✅ Consultancy Platform
-- ✅ Production Apps
-- 🔄 AI Workspace
-- 🔄 Voice Agents
-- 🔄 Local LLMs
-- 🔄 AI Operating System
-- ⏳ Robotics
-- ⏳ Startup
+## SYSTEM ROADMAP
+
+| YEAR | TARGET |
+|------|--------|
+| ✅ | AI Attendance |
+| ✅ | Consultancy Platform |
+| 🔄 | AI Workspace |
+| 🔄 | Voice Agents |
+| 🔄 | Local LLM |
+| ⏳ | AI Operating System |
+| ⏳ | Robotics |
+| ⏳ | Startup |
+
+</div>
+
+---
+
+# Philosophy
+
+> Build.
+
+> Ship.
+
+> Learn.
+
+> Repeat.
+
+> Let AI do the repetitive work.
 
 ---
 
@@ -233,14 +200,8 @@ Repeat.
 
 # Let's Build Something Impossible.
 
-📫 **Email**
+📧 **esukapallinani@gmail.com**
 
-esukapallinani@gmail.com
-
-🌐 Portfolio (Coming Soon)
-
-💼 LinkedIn (Coming Soon)
-
-⭐ If you enjoy my work, consider following the journey.
+⭐ **Follow my journey as I build AI products in public.**
 
 </div>
