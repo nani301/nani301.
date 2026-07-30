@@ -1,0 +1,21 @@
+<svg viewBox="0 0 900 40" xmlns="http://www.w3.org/2000/svg" width="900" height="40">
+  <defs>
+    <linearGradient id="divLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#050505"/>
+      <stop offset="20%" stop-color="rgba(255,255,255,0.06)"/>
+      <stop offset="50%" stop-color="rgba(88,166,255,0.2)">
+        <animate attributeName="stop-color" values="rgba(88,166,255,0.2);rgba(255,255,255,0.12);rgba(88,166,255,0.2)" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="80%" stop-color="rgba(255,255,255,0.06)"/>
+      <stop offset="100%" stop-color="#050505"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="40" fill="#050505"/>
+  <line x1="0" y1="20" x2="900" y2="20" stroke="url(#divLine)" stroke-width="0.5"/>
+
+  <!-- Center diamond mark -->
+  <polygon points="450,14 456,20 450,26 444,20" fill="none" stroke="rgba(88,166,255,0.3)" stroke-width="0.8"/>
+  <polygon points="450,17 453,20 450,23 447,20" fill="rgba(88,166,255,0.15)">
+    <animate attributeName="opacity" values="0.6;0.2;0.6" dur="3s" repeatCount="indefinite"/>
+  </polygon>
+</svg>
